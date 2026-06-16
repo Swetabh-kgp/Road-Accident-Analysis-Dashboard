@@ -11,7 +11,7 @@ This project is an Excel-based Road Accident Analysis Dashboard created to analy
 - Casualties by area type
 - Casualties by light condition
 - Interactive filter panel for date, weather, and wind conditions
-## Tools Used
+## Skills & Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
